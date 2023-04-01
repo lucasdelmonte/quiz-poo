@@ -1,4 +1,4 @@
-const data = [
+export const data = [
     {
         question: 'Which of the following options is not a code editor?',
         choices: [

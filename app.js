@@ -1,1 +1,2 @@
-console.log('Hello world')
+import { data } from './data/data.js'
+import './models/Question.js'
