@@ -1,2 +1,3 @@
-import { data } from './data/data.js'
-import './models/Question.js'
+import { questions } from './data/questions.js'
+
+console.log(questions);
