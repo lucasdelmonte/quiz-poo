@@ -7,6 +7,7 @@ function main() {
     const quiz = new Quiz(questions)
     const ui = new UI()
     ui.showQuestion(quiz.getQuestionIndex().text)
+    ui.showChoices(quiz.getQuestionIndex().choices)
 }
 
 main()
