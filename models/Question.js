@@ -1,5 +1,4 @@
 export class Question {
-
     /**
      * 
      * @param {string} text this is the text of the question
